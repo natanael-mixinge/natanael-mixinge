@@ -1,6 +1,6 @@
 # Hello, I'm Natanael Mixinge! 👋
 
-I am a passionate **Software Developer** and student currently enrolled in **Information Systems Management**. With 3 years of programming experience, I enjoy building scalable web applications and solving complex technical problems. 
+Mid - level **Software Developer** and student currently enrolled in **Information Systems Management**. With 3 years of programming experience, I enjoy building scalable web applications and solving complex technical problems. 
 
 My long-term goal is to transition into **Telecommunications Engineering**, bridging the gap between robust software architecture and network infrastructure.
 
