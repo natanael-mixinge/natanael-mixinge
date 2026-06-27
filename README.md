@@ -1,6 +1,6 @@
 # Hello, I'm Natanael Mixinge! 👋
 
-I am a Mid-Level Software Engineer and a student of Information Systems Management. With 3 years of programming experience, I build scalable web applications and engineer solutions for complex technical challenges.
+Mid-Level Software Engineer and a student of Information Systems Management. With 3 years of programming experience, I build scalable web applications and engineer solutions for complex technical challenges.
 
 My objective is to evolve into Telecommunications Engineering, bridging the gap between high-performance software architecture and network infrastructure.
 
