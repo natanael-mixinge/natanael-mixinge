@@ -40,9 +40,9 @@ My objective is to evolve into Telecommunications Engineering, bridging the gap 
 ---
 
 ### 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Natanael%20Mixinge) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/natanael_mixinge_fr.) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:natanaelmixinge909@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Natanael%20Mixinge) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/natanael_mixinge_fr.) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanaelmixinge909@gmail.com)
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=natanael-mixinge&theme=dark&hide_border=false)
